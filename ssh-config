@@ -1,0 +1,11 @@
+
+# CAEN
+Host hsm
+  HostName login.engin.umich.edu
+  User haysmith
+  Compression yes
+
+Host github
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa
